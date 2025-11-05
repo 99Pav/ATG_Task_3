@@ -1,0 +1,18 @@
+[
+  {
+    "text": "The movie was painfully slow and boring.",
+    "label": "negative"
+  },
+  {
+    "text": "I loved the cinematography and soundtrack.",
+    "label": "positive"
+  },
+  {
+    "text": "Great acting and story.",
+    "label": "positive"
+  },
+  {
+    "text": "Poor direction and dull plot.",
+    "label": "negative"
+  }
+]
